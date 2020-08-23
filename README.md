@@ -6,4 +6,4 @@ Apple clone coding
 + 
 
 >URL
-- [Link](https://wonjunyou.github.io/Chrome_momentum/)
+- [Link](https://wonjunyou.github.io/apple_clone/.)
