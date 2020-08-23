@@ -17,6 +17,11 @@ p{
 	line-height : 1.6;
 }
 
+a{
+	color:rgb(29, 29, 31);
+	text-decoration : none; /* 밑줄 제거 */
+}
+
 .global-nav{
 	height: 44px;
 }
@@ -39,9 +44,22 @@ p{
 	justify-content: space-between;
 }
 
-.product-name{
+/*css 우선권: id> class > tag*/
+
+.local-nav-links .product-name{
 	/* 왼쪽에 딱 붙음. margin auto하면 내가 가질 수 있는 margin을 최대 사용*/
 	margin-right: auto;
+	font-size : 1.4rem;
+	font-weight: bold;
+}
+
+.local-nav-links a{
+	font-size : 0.8rem;
+}
+
+/* 괄호 내 조건에 부합하지 않는 것만 */
+.local-nav-links a:not(.product-name){
+	margin-left:2em; 
 }
 
 
