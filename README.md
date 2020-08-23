@@ -6,4 +6,3 @@ Apple clone coding (20.08.23~ )
 + 
 
 >URL
-- [Link](https://wonjunyou.github.io/apple_clone/.)
