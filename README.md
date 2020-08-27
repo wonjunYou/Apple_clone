@@ -1,6 +1,6 @@
 # Apple_clone
 
-Apple clone coding
+Apple web page clone coding
 
 >구현 기능 
 + 
