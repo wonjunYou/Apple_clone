@@ -1,6 +1,6 @@
 # Apple_clone
 
-Apple clone coding (20.08.23~ )
+Apple clone coding
 
 >구현 기능 
 + 
