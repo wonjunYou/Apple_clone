@@ -7,4 +7,4 @@ Apple web page clone coding
 
 >URL
 
-- [Link](https://wonjunyou.github.io/apple_clone/blank.html/)
+- [Link](https://wonjunyou.github.io/apple_clone/)
