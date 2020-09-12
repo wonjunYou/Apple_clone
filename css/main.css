@@ -89,6 +89,7 @@ a{
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	top: 35vh;
 	height: 3em;
 	margin: 5px 0;
 	font-size: 2.5rem;
@@ -167,7 +168,6 @@ a{
 .sticky-elem{
 	display: none;
 	position:fixed;
-	top: 0;
 	left: 0;
 	width: 100%;
 }
